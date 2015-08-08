@@ -10,7 +10,6 @@ object task5 extends App {
     l match {
       case h :: t =>
         (h match {
-          case l: List[Int] => l.sum
           case l: List[Any] => leafSum(l)
           case n: Int => n
         }) +leafSum(t)
