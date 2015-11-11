@@ -1,10 +1,9 @@
 package chapter15
 
-import org.junit.Test
-import org.junit.Assert._
 import org.hamcrest.core.IsEqual._
 import org.hamcrest.core.IsNot._
-import org.junit.runner.RunWith
+import org.junit.Assert._
+import org.junit.Test
 
 /**
  * task1 <Description>
