@@ -1,6 +1,6 @@
 package chapter18
 
-import java.io.{OutputStreamWriter, PrintWriter, OutputStream, BufferedOutputStream}
+import java.io.{OutputStreamWriter, PrintWriter}
 
 /**
   * task7 <Description>
