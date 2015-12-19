@@ -23,7 +23,7 @@ object task9 extends App {
   val s = new Seconds(10)
   val m = new Meters(5)
 
-  s + m // now impossible to add seconds and meters
+  //s + m // now impossible to add seconds and meters
   s + s // ok
   m + m // ok
 }
